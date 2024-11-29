@@ -5,6 +5,7 @@ export interface SearchResponse {
   meta:       Meta;
 }
 
+
 export interface Gif {
   type:                       Type;
   id:                         string;
